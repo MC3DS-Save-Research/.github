@@ -1,2 +1,1 @@
-# .github
-github org configs
+# MC3DS Save Research Team
